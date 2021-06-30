@@ -1,4 +1,4 @@
-# N-Dimensional TicTacToe on MATLAB
+# Multi-Dimensional TicTacToe on MATLAB
 
 
 ## About 
